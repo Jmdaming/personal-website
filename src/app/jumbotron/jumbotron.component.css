@@ -1,0 +1,11 @@
+.full-height {
+  min-height: calc(100vh - 65px);
+  max-height: calc(100vh - 65px);
+  background: url(src/assets/images/background.jpg) no-repeat fixed;
+
+  background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+}

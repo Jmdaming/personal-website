@@ -1,0 +1,8 @@
+.skill-list {
+  list-style-type: none;
+}
+
+.fa-star {
+  color: #7395AE;
+  z-index: 999;
+}

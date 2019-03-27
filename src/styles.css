@@ -1,1 +1,40 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  color: #5D5C61;
+  position:relative;
+}
+
+.info-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  min-height: 300px;
+}
+
+.stylish-pallete-dark-grey {
+  background-color: #5D5C61;
+}
+
+.stylish-pallete-light-grey {
+  background-color: #818181;
+}
+
+.stylish-pallete-dark-blue {
+  background-color: #557A95;
+}
+
+.stylish-pallete-light-blue {
+  background-color: #7395AE;
+}
+
+h1 {
+  color: #5D5C61;
+}
+
+.stylish-pallete-tan {
+  background-color: #B1A296;
+}
+
+.info-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  min-height: 300px;
+}
